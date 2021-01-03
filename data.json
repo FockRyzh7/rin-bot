@@ -1,10 +1,10 @@
 {
   "servers": [
     {
-      "name": "srv-1",
-      "host": "localhost",
-      "port": 25575,
-      "password": "password",
+      "name": "LegoMC",
+      "host": "peace.mcpehost.ru",
+      "port": 19123,
+      "password": "XGJPIUCU9ZH5P9DB5FT5",
       "blocked": [
         "op",
         "deop",
@@ -14,7 +14,7 @@
   ],
   "users": [
     {
-      "userId": 279219906,
+      "userId": 592156209,
       "servers": [
         "srv-1"
       ],
